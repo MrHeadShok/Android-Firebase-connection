@@ -1,6 +1,4 @@
-# Lab8
 
-Ce travail a été effectué par Belkahla Taieb & Bibi Manel
 
 Notre application consiste à un systéme de connexion/ création d'un compte pour une application.
 On a alors utilisé Firebase comme notre base des données due à sa facilité et simplicité.
